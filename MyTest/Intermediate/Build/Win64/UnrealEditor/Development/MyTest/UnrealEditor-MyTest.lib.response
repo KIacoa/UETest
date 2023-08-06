@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UETest\UETest\MyTest\Intermediate\Build\Win64\MyTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\UETest\UETest\MyTest\Intermediate\Build\Win64\UnrealEditor\Development\MyTest\MyTest.cpp.obj"
+"E:\UETest\UETest\MyTest\Intermediate\Build\Win64\UnrealEditor\Development\MyTest\MyTestGameModeBase.cpp.obj"
+"E:\UETest\UETest\MyTest\Intermediate\Build\Win64\UnrealEditor\Development\MyTest\MyTest.init.gen.cpp.obj"
+"E:\UETest\UETest\MyTest\Intermediate\Build\Win64\UnrealEditor\Development\MyTest\MyTestGameModeBase.gen.cpp.obj"
+"E:\UETest\UETest\MyTest\Intermediate\Build\Win64\UnrealEditor\Development\MyTest\Default.rc2.res"
+/OUT:"E:\UETest\UETest\MyTest\Intermediate\Build\Win64\UnrealEditor\Development\MyTest\UnrealEditor-MyTest.lib"

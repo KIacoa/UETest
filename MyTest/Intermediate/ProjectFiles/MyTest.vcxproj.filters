@@ -41,5 +41,17 @@
     <ClInclude Include="..\..\Source\MyTest\MyTestGameModeBase.h">
       <Filter>Source\MyTest</Filter>
     </ClInclude>
+    <Filter Include="Source\MyTest\Private">
+      <UniqueIdentifier>{EE6B3ABE-2E13-3180-8A2F-EBA3FFA0C59E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyTest\Private\TestCharacter.cpp">
+      <Filter>Source\MyTest\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyTest\Public">
+      <UniqueIdentifier>{1BD56151-7EA2-3531-BC10-33A380FFAD03}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MyTest\Public\TestCharacter.h">
+      <Filter>Source\MyTest\Public</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

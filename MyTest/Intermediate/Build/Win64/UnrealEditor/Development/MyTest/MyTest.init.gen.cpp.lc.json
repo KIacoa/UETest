@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\uetest\\uetest\\mytest\\intermediate\\build\\win64\\unrealeditor\\inc\\mytest\\mytest.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\uetest\\uetest\\mytest\\intermediate\\build\\win64\\mytesteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\uetest\\uetest\\mytest\\intermediate\\build\\win64\\unrealeditor\\development\\mytest\\definitions.mytest.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

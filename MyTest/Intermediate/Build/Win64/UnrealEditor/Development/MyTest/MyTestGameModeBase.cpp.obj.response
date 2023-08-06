@@ -1,18 +1,17 @@
 E:\UETest\UETest\MyTest\Source\MyTest\MyTestGameModeBase.cpp
 /I .
-/I E:\UETest\UETest\MyTest\Intermediate\Build\Win64\UnrealEditor\Inc\MyTest
-/I E:\UETest\UETest\MyTest\Source
-/I Runtime
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
-/I Runtime\CoreUObject\Public
+/I E:\UETest\UETest\MyTest\Source\MyTest\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
+/I Runtime
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline
 /I Runtime\CoreOnline\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
+/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
@@ -253,6 +252,9 @@ E:\UETest\UETest\MyTest\Source\MyTest\MyTestGameModeBase.cpp
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
+/I E:\UETest\UETest\MyTest\Intermediate\Build\Win64\UnrealEditor\Inc\MyTest
+/I E:\UETest\UETest\MyTest\Source
+/I E:\UETest\UETest\MyTest\Source\MyTest\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
